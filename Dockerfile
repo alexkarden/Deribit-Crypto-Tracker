@@ -1,4 +1,4 @@
-# app/../Dockerfile
+# Dockerfile
 # Указываем базовый образ с Python (соответствует вашему локальному окружению)
 FROM python:3.12-slim
 
